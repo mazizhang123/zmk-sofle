@@ -144,7 +144,7 @@ layers:
   - F9
   - F10
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:bluetooth-off$$
   - {t: LAYER0, h: toggle}
   - {t: layer1, h: toggle}
   - {t: '2', h: toggle}
